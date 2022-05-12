@@ -1,7 +1,7 @@
 # EXPERIMENT-NO--05-Distance measurement using Ultrasonic sensor
 
 ## AIM: 
-To interface an ultrasonic sensor to measure the obstracle.
+To measure the distance of the given obstacle using ultrasonic sensor (HC - SR04).
  
 ### COMPONENTS REQUIRED:
 1.	ultrasonic sensor module HC-SR04
@@ -92,7 +92,7 @@ void loop(){
 ![output2](./12.png)
 
 ### RESULTS
-Thus interfacing an ultrasonic sensor to measure an obstracle is executed.
+Thus the distance value is measured in "CM" using ultrasonic sensor.
  
 
 
